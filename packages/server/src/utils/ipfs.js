@@ -15,8 +15,8 @@ async function initIpfsClient() {
       new ClientOptions(
         INFURA_PROJECT_ID,
         INFURA_PROJECT_SECRET,
-        LOCAL_IPFS_NODE_URL
-      )
+        LOCAL_IPFS_NODE_URL,
+      ),
     );
   }
 }

@@ -1,0 +1,6 @@
+{
+  "name": "@ipfs-server/interface",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "Apache-2.0"
+}

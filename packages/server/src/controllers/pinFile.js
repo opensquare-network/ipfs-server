@@ -13,7 +13,7 @@ async function pinFile(ctx) {
   if (file.size > 10 * Megabyte) {
     throw new HttpError(
       400,
-      "The upload file has exceeded the size limitation"
+      "The upload file has exceeded the size limitation",
     );
   }
 
