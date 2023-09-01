@@ -1,5 +1,5 @@
 {
-  "name": "@ipfs-server/server",
+  "name": "@osn/ipfs-server",
   "version": "1.0.0",
   "repository": "https://github.com/opensquare-network/ipfs-server.git",
   "author": "OpenSquare <https://www.opensquare.network/>",
